@@ -4,23 +4,23 @@
 
 :root {
   /* Marca */
-  --color-marca: rosybrown;
-  --color-marca-hover: #bc8f8f;
-  --color-marca-secundario: rgb(185, 152, 136);
+  --color-marca: #313331de;
+  --color-marca-hover: white;
+  --color-marca-secundario: #313331de;
 
   /* Neutros */
-  --color-fondo: #fcfcfc;
+  --color-fondo: #white;
   --color-superficie: #fff;
-  --color-texto: #222;
-  --color-texto-suave: #333;
-  --color-texto-muted: #666;
+  --color-texto: #white;
+  --color-texto-suave: black;
+  --color-texto-muted: black;
   --color-borde: #e1e1e1;
   --color-blanco: #fff;
-  --color-negro: #000;
-  --color-titulo-invertido: aliceblue;
+  --color-negro: #fff;
+  --color-titulo-invertido: white;
 
   /* Tipografia */
-  --fuente-principal: "Montserrat", sans-serif;
+  --fuente-principal: "Cormorant Garamond", serif;
   --peso-normal: 400;
   --peso-negrita: 700;
 
